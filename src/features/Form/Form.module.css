@@ -1,0 +1,22 @@
+.buttonContainer {
+  margin: 30px 100px;
+}
+
+.primaryButton {
+  background: #282c34;
+  color: white;
+  border: 1px solid;
+  height: 2.5rem;
+  padding: 0.5rem 2rem;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  transition: 300ms all;
+}
+
+.primaryButton:hover {
+  background-color: white;
+  color: #282c34;
+}

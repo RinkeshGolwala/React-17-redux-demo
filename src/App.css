@@ -1,0 +1,43 @@
+.header-container {
+  position: relative;
+  background-color: #282c34;
+  height: 10vh;
+  display: flex;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+  text-decoration: none;
+}
+
+.header-title {
+  font-size: 2rem;
+  margin: 1rem 3rem;
+}
+
+.header-links {
+  position: absolute;
+  right: 30px;
+  top: 1.5rem
+}
+
+.home-container {
+  margin-top: 2rem;
+  padding: 0 2rem;
+}
+
+.input-container {
+  display: flex;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 1.5rem auto;
+}
+
+.input-container label {
+  width: 150px;
+  padding-right: 30px;
+}
+
+.input-container input {
+  height: 1.3rem;
+}
